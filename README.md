@@ -1,9 +1,8 @@
 Team 3
-Names
-Qiong Wu / ID# 014640938
-/ 
-/
-/
-/
+Qiong Wu
+Manas Abhyankar
+Sindhana Krishnamurthy
+Lyn Yin
+Sandhya
 
 Project: Retail Sales Predicton
