@@ -5,4 +5,4 @@ Sindhana Krishnamurthy
 Lyn Yin
 Sandhya
 
-Project: Retail Sales Predicton
+Project: Retail Sales Prediction
